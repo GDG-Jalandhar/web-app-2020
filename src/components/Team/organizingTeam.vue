@@ -23,7 +23,7 @@
 <script>
     import TeamMemberCard from '@/components/Team/TeamMemberCard'
     import organizingTeamList from '@/components/Team/organizingTeamList'
-    import TeamMemberCardData from '@/assets/data/Team.json'
+    import TeamMemberCardData from '@/assets/data/OrganizingTeam.json'
     export default {
         name: 'App',
         components:{

@@ -1,61 +1,37 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Nitish Kumar",
+        "designation":"Full Stack Developer",
         "bio":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci est, eius non minima amet quaerat expedita quos exercitationem quia aspernatur blanditiis totam officia commodi eos sapiente natus excepturi ab nemo.",
         "image":"",
         "socialLinks":{
-            "twitter":"https://twitter.com/vrijrajsingh",
-            "linkedin":"https://www.linkedin.com/in/vrijraj",
-            "github":"https://github.com/Vrijraj",
+            "twitter":"https://twitter.com/nitishk72",
+            "linkedin":"",
+            "github":"https://github.com/nitishk72",
             "website":""
         }        
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Yash Pathak",
+        "designation":"Mobile App Developer",
         "bio":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci est, eius non minima amet quaerat expedita quos exercitationem quia aspernatur blanditiis totam officia commodi eos sapiente natus excepturi ab nemo.",
         "image":"",
         "socialLinks":{
-            "twitter":"https://twitter.com/vrijrajsingh",
-            "linkedin":"https://www.linkedin.com/in/vrijraj",
-            "github":"https://github.com/Vrijraj",
+            "twitter":"https://twitter.com/yashpathack",
+            "linkedin":"https://www.linkedin.com/in/yash-pathak-b367bb148/",
+            "github":"https://github.com/yashpathack",
             "website":""
         }        
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Bharat Agarwal",
+        "designation":"Full Stack Developer",
         "bio":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci est, eius non minima amet quaerat expedita quos exercitationem quia aspernatur blanditiis totam officia commodi eos sapiente natus excepturi ab nemo.",
         "image":"",
         "socialLinks":{
-            "twitter":"https://twitter.com/vrijrajsingh",
-            "linkedin":"https://www.linkedin.com/in/vrijraj",
-            "github":"https://github.com/Vrijraj",
-            "website":""
-        }        
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "bio":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci est, eius non minima amet quaerat expedita quos exercitationem quia aspernatur blanditiis totam officia commodi eos sapiente natus excepturi ab nemo.",
-        "image":"",
-        "socialLinks":{
-            "twitter":"https://twitter.com/vrijrajsingh",
-            "linkedin":"https://www.linkedin.com/in/vrijraj",
-            "github":"https://github.com/Vrijraj",
-            "website":""
-        }        
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "bio":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci est, eius non minima amet quaerat expedita quos exercitationem quia aspernatur blanditiis totam officia commodi eos sapiente natus excepturi ab nemo.",
-        "image":"",
-        "socialLinks":{
-            "twitter":"https://twitter.com/vrijrajsingh",
-            "linkedin":"https://www.linkedin.com/in/vrijraj",
-            "github":"https://github.com/Vrijraj",
+            "twitter":"https://twitter.com/bharatagsrwal",
+            "linkedin":"",
+            "github":"",
             "website":""
         }        
     }

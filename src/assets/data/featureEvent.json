@@ -1,24 +1,24 @@
 [
     {
-        "FeatureEventName":"IWD'19 Jalandhar",
-        "EventImage":"",
+        "FeatureEventName":"Developers Day 2020",
+        "EventImage":"https://scontent.fjai2-1.fna.fbcdn.net/v/t1.0-0/p180x540/83353734_2832837880093354_7997842718539644928_o.jpg?_nc_cat=103&_nc_ohc=IJQMwoN271cAX-OetF5&_nc_ht=scontent.fjai2-1.fna&_nc_tp=6&oh=085fca746c462645df05aa4361577aae&oe=5EC2C42F",
         "EventDate":{
-            "Date":"31",
-            "Month":"3",
-            "Year":"2019"
+            "Date":"8",
+            "Month":"2",
+            "Year":"2020"
         },
         "EventTime":{
             "StartTime":"09:00 AM",
-            "EndTime":"04:30 PM"
+            "EndTime":"05:30 PM"
         },
-        "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-        "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
+        "EventDescription":"Developers Day 2020 is a great opportunity to learn more about Google Developers Products like AMP, PWA, Firebase, Android and Google Maps Platform. The events also give one a chance to meet developer advocates and engineers who work on these products and ask them any questions one might have. GDG Jalandhar is once again hosting a workshop named “Developers Day 2020”. The conference aims at bringing together Google technology enthusiasts of all experience levels, from new users to core developers. 'Developers Day 2020' provides a platform for companies who are looking for developers to interact with and get involved with the developer community of Google as well as a great chance to connect with so many talented developers will join us from around the world.",
+        "EventVenue":"Lovely Professional University, Jalandhar",
         "Links":{
             "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-            "EventWebsite":"https://iwd.gdgjalandhar.com/",
-            "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-            "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-            "FBEventPageURL":""        
+            "EventWebsite":"",
+            "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/267749161/",
+            "RegistrationLink":"https://gdgjalandhar.page.link/devdays2020",
+            "FBEventPageURL":"https://www.facebook.com/events/222503148749705/"        
         }
         
     }

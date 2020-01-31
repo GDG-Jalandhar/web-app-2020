@@ -7,8 +7,8 @@
                         <v-row class="py-0">
                             <v-col cols="12" md="12" class="pa-0" >
                                 <v-img
-                                    src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-9/69274786_2500025083374637_3726796238599749632_o.jpg?_nc_cat=107&_nc_oc=AQmIdUSs5JrL3yJYZemhw9-p_vLaCAETQdF2L4nmOLwCjF0XCWyjx2pdRJCpKMw9zdjWmrVrePm_P8hKhUFpKSIL&_nc_ht=scontent.fdel1-2.fna&oh=0241c4f1c5c4deacc2d547f28fba9f7e&oe=5E8C8A1E"
-                                    lazy-src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-9/69274786_2500025083374637_3726796238599749632_o.jpg?_nc_cat=107&_nc_oc=AQmIdUSs5JrL3yJYZemhw9-p_vLaCAETQdF2L4nmOLwCjF0XCWyjx2pdRJCpKMw9zdjWmrVrePm_P8hKhUFpKSIL&_nc_ht=scontent.fdel1-2.fna&oh=0241c4f1c5c4deacc2d547f28fba9f7e&oe=5E8C8A1E"
+                                    :src="eventdata.EventImage"
+                                    :lazy-src="eventdata.EventImage"
                                     width="100%"
                                     cover
                                     style="border-top-left-radius:5px;"

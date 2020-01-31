@@ -2,7 +2,7 @@
     {
         "id":"devfest",
         "EventName":"DevFest 2019",
-        "EventImage":"",
+        "EventImage":"https://scontent.fjai2-1.fna.fbcdn.net/v/t1.0-9/83353734_2832837880093354_7997842718539644928_o.jpg?_nc_cat=103&_nc_ohc=IJQMwoN271cAX-OetF5&_nc_ht=scontent.fjai2-1.fna&oh=738f66e4f5a0614dbc3bc712faeef2f2&oe=5E91B138",
         "EventDate":{
             "Date":"31",
             "Month":"3",
@@ -85,93 +85,56 @@
         ]
     },
     {
-        "id":"devfest2",
-        "EventName":"Event Name",
-        "EventImage":"",
+        "id":"devday2020",
+        "EventName":"Developers Day 2020",
+        "EventImage":"https://scontent.fjai2-1.fna.fbcdn.net/v/t1.0-9/83353734_2832837880093354_7997842718539644928_o.jpg?_nc_cat=103&_nc_ohc=IJQMwoN271cAX-OetF5&_nc_ht=scontent.fjai2-1.fna&oh=738f66e4f5a0614dbc3bc712faeef2f2&oe=5E91B138",
         "EventDate":{
-            "Date":"31",
-            "Month":"3",
-            "Year":"2019"
+            "Date":"8",
+            "Month":"2",
+            "Year":"2020"
         },
         "EventTime":{
             "StartTime":"09:00 AM",
-            "EndTime":"04:30 PM"
+            "EndTime":"05:30 PM"
         },
-        "EventHashTags":["HashTag1","HashTag2","HashTag3","HashTag4","HashTag5"],
-        "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-        "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
+        "EventHashTags":["DevDay2020","GDGJalandhar","WTMJalandhar","GDG","WTM"],
+        "EventDescription":"Developers Day 2020 is a great opportunity to learn more about Google Developers Products like AMP, PWA, Firebase, Android and Google Maps Platform. The events also give one a chance to meet developer advocates and engineers who work on these products and ask them any questions one might have. GDG Jalandhar is once again hosting a workshop named “Developers Day 2020”. The conference aims at bringing together Google technology enthusiasts of all experience levels, from new users to core developers. 'Developers Day 2020' provides a platform for companies who are looking for developers to interact with and get involved with the developer community of Google as well as a great chance to connect with so many talented developers will join us from around the world.",
+        "EventVenue":"Lovely Professional University, Jalandhar",
         "Links":{
             "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-            "EventWebsite":"https://iwd.gdgjalandhar.com/",
-            "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-            "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-            "EventFacebookPageURL":"",
+            "EventWebsite":"",
+            "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/267749161/",
+            "RegistrationLink":"https://gdgjalandhar.page.link/guest-devdes2020",
+            "EventFacebookPageURL":"https://www.facebook.com/events/222503148749705/",
             "EventFeedbackURL":"",
-            "CallForSpeaker":"asd"        
+            "CallForSpeaker":""        
         },
         "Speakers":[
-            "nikita_gandhi",
-            "sabyasachi_mukhopadhyay",
-            "paresh_mayani"
+            "vrijraj_singh"
         ],
         "Agenda":[
             {
                 "StartTime":"09:00 AM",
                 "EndTime":"05:30 PM",
-                "Title":"Tile",
-                "Description":"Some Description abouth ehe title"
-            },
-            {
-                "StartTime":"09:00 AM",
-                "EndTime":"05:30 PM",
-                "Title":"Tile",
-                "Description":"Some Description abouth ehe title"
-            },
-            {
-                "StartTime":"09:00 AM",
-                "EndTime":"05:30 PM",
-                "Title":"Tile",
-                "Description":"Some Description abouth ehe title"
-            },
-            {
-                "StartTime":"09:00 AM",
-                "EndTime":"05:30 PM",
-                "Title":"Tile",
-                "Description":"Some Description abouth ehe title"
-            },
-            {
-                "StartTime":"09:00 AM",
-                "EndTime":"05:30 PM",
-                "Title":"Tile",
-                "Description":"Some Description abouth ehe title"
-            },
-            {
-                "StartTime":"09:00 AM",
-                "EndTime":"05:30 PM",
-                "Title":"Tile",
-                "Description":"Some Description abouth ehe title"
+                "Title":"Coming Soon",
+                "Description":"Coming Soon"
             }
         ],
         "Partners":[
             {
-                "Name":"Google",
+                "Name":"Google Developers",
                 "Website":"",
-                "Image":""
+                "Image":"googledevs.webp"
             },
             {
-                "Name":"Google",
+                "Name":"GDG",
                 "Website":"",
-                "Image":""
+                "Image":"gdglogo.webp"
             },
             {
-                "Name":"Google",
+                "Name":"Women Techmakers",
                 "Website":"",
-                "Image":""
-            },
-            {
-                "Name":"Google",
-                "Website":"",
-                "Image":""
+                "Image":"wtm.svg"
             }
         ]
     }

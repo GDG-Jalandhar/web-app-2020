@@ -99,7 +99,7 @@
         },
         "EventHashTags":["DevDay2020","GDGJalandhar","WTMJalandhar","GDG","WTM"],
         "EventDescription":"Developers Day 2020 is a great opportunity to learn more about Google Developers Products like AMP, PWA, Firebase, Android and Google Maps Platform. The events also give one a chance to meet developer advocates and engineers who work on these products and ask them any questions one might have. GDG Jalandhar is once again hosting a workshop named “Developers Day 2020”. The conference aims at bringing together Google technology enthusiasts of all experience levels, from new users to core developers. 'Developers Day 2020' provides a platform for companies who are looking for developers to interact with and get involved with the developer community of Google as well as a great chance to connect with so many talented developers will join us from around the world.",
-        "EventVenue":"Lovely Professional University, Jalandhar",
+        "EventVenue":"34-213, Lovely Professional University, Jalandhar",
         "Links":{
             "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
             "EventWebsite":"",
@@ -110,15 +110,89 @@
             "CallForSpeaker":""        
         },
         "Speakers":[
-            "vrijraj_singh"
+            "vrijraj_singh",
+            "kamal_vaid",
+            "navdeep_singh",
+            "pramod_mahato",
+            "nitish_kumar_singh",
+            "shiva_ram",
+            "yash_pathak",
+            "devesh_raj"
         ],
         "Agenda":[
             {
                 "StartTime":"09:00 AM",
-                "EndTime":"05:30 PM",
-                "Title":"Coming Soon",
-                "Description":"Coming Soon"
+                "EndTime":"09:30 AM",
+                "Title":"Registration",
+                "Description":"Confirm your seat"
+            },
+            {
+                "StartTime":"09:30 AM",
+                "EndTime":"10:00 AM",
+                "Title":"Welcome Keynote",
+                "Description":"GDG Jalandhar Community Welcome Keynote"
+            },
+            {
+                "StartTime":"10:00 AM",
+                "EndTime":"10:30 AM",
+                "Title":"Build your career with Google ",
+                "Description":""
+            },
+            {
+                "StartTime":"10:30 AM",
+                "EndTime":"11:15 AM",
+                "Title":"State of the Web in India (Web/PWA/AMP/Firebase/Chrome Dev Platform) ",
+                "Description":""
+            },
+            {
+                "StartTime":"11:15 AM",
+                "EndTime":"11:45 AM",
+                "Title":"Getting started your career in Mobile app Development",
+                "Description":""
+            },
+            {
+                "StartTime":"12:00 PM",
+                "EndTime":"12:30 PM",
+                "Title":"What’s new in Flutter? ",
+                "Description":""
+            },
+            {
+                "StartTime":"12:30 PM",
+                "EndTime":"01:00 PM",
+                "Title":"Optimize Website Speed With Chrome DevTools ",
+                "Description":""
+            },
+            {
+                "StartTime":"01:00 PM",
+                "EndTime":"02:15 PM",
+                "Title":"Lunch & Networking",
+                "Description":""
+            },
+            {
+                "StartTime":"02:15 PM",
+                "EndTime":"03:00 PM",
+                "Title":"Web Accessibility",
+                "Description":""
+            },
+            {
+                "StartTime":"03:00 PM",
+                "EndTime":"03:30 PM",
+                "Title":"Web Assembly ",
+                "Description":""
+            },
+            {
+                "StartTime":"03:30 PM",
+                "EndTime":"04:30 PM",
+                "Title":"ML for Web & GCP ",
+                "Description":""
+            },
+            {
+                "StartTime":"04:30 PM",
+                "EndTime":"05:00 PM",
+                "Title":"Closing Note & Goodies Distribution  ",
+                "Description":""
             }
+
         ],
         "Partners":[
             {

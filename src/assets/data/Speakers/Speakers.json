@@ -153,6 +153,160 @@
             "website":"",
             "medium": ""
         }
+    },
+    {
+        "id":"kamal_vaid",
+        "name":"Kamal Vaid",
+        "designation":"Tech Lead(Infosys), GDE & GDG Organizer",
+        "company":{
+            "name":"Infosys",
+            "url":""
+        },
+        "bio": "Kamal loves to work and explore Android. Working as Technology Lead with 6+ years of experience, he believes in the theory of sharing whatever you have learnt from everywhere. He is a blogger and write whenever he feel he has learnt something new and that needs to be shared. He is fond of Cars and Bikes, and spend his free time in riding",
+        "city":"Chandigarh",
+        "country":"India",
+        "image":"",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/cammykamal",
+            "linkedin":"",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"navdeep_singh",
+        "name":"Navdeep Singh",
+        "designation":"Google Certified Mobile Web Specialist ",
+        "company":{
+            "name":"Falcon Agency",
+            "url":""
+        },
+        "bio": "",
+        "city":"Chandigarh",
+        "country":"India",
+        "image":"",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/nswebstudio",
+            "linkedin":"",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"nitish_kumar_singh",
+        "name":"Nitish Kumar Singh",
+        "designation":"Full Stack Developer",
+        "company":{
+            "name":"GDG Jalandhar",
+            "url":""
+        },
+        "bio": "JavaScript Developer",
+        "city":"Jalandhar",
+        "country":"India",
+        "image":"",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"https://www.facebook.com/nitishk72/",
+            "twitter":"https://twitter.com/nitishk72_",
+            "linkedin":"https://linkedin.com/in/nitishk72",
+            "github":"https://github.com/nitishk72",
+            "website":"https://nitishk72.tk",
+            "medium": "https://medium.com/@nitishk72"
+        }
+    },
+    {
+        "id":"yash_pathak",
+        "name":"Yash Pathak",
+        "designation":"Full Stack Developer",
+        "company":{
+            "name":"GDG Jalandhar",
+            "url":""
+        },
+        "bio": "",
+        "city":"Jalandhar",
+        "country":"India",
+        "image":"",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/yashpathack",
+            "linkedin":"",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"shiva_ram",
+        "name":"Shivaram",
+        "designation":"Full Stack Developer",
+        "company":{
+            "name":"GDG Jalandhar",
+            "url":""
+        },
+        "bio": "",
+        "city":"Jalandhar",
+        "country":"India",
+        "image":"",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/prince_shivaram",
+            "linkedin":"",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"pramod_mahato",
+        "name":"Pramod Mahato",
+        "designation":"Full Stack Developer",
+        "company":{
+            "name":"GDG Jalandhar",
+            "url":""
+        },
+        "bio": "",
+        "city":"Jalandhar",
+        "country":"India",
+        "image":"",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/1997_pramod",
+            "linkedin":"",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"devesh_raj",
+        "name":"Devesh Raj",
+        "designation":"Jr. Map Analyist",
+        "company":{
+            "name":"GDG Jalandhar",
+            "url":""
+        },
+        "bio": "",
+        "city":"Jalandhar",
+        "country":"India",
+        "image":"",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/devish2",
+            "linkedin":"",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
     }
 
 ]

@@ -104,9 +104,9 @@
             "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
             "EventWebsite":"",
             "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/267749161/",
-            "RegistrationLink":"https://gdgjalandhar.page.link/guest-devdes2020",
+            "RegistrationLink":"",
             "EventFacebookPageURL":"https://www.facebook.com/events/222503148749705/",
-            "EventFeedbackURL":"",
+            "EventFeedbackURL":"https://gdgjalandhar.page.link/ddf",
             "CallForSpeaker":""        
         },
         "Speakers":[
@@ -164,26 +164,32 @@
             },
             {
                 "StartTime":"01:00 PM",
-                "EndTime":"02:15 PM",
+                "EndTime":"02:00 PM",
                 "Title":"Lunch & Networking",
                 "Description":""
             },
             {
-                "StartTime":"02:15 PM",
-                "EndTime":"03:00 PM",
+                "StartTime":"02:00 PM",
+                "EndTime":"02:30 PM",
                 "Title":"Web Accessibility",
                 "Description":""
             },
             {
-                "StartTime":"03:00 PM",
-                "EndTime":"03:30 PM",
+                "StartTime":"02:30 PM",
+                "EndTime":"03:15 PM",
+                "Title":"Google Maps Platform",
+                "Description":""
+            },
+            {
+                "StartTime":"03:15 PM",
+                "EndTime":"03:45 PM",
                 "Title":"Web Assembly ",
                 "Description":""
             },
             {
-                "StartTime":"03:30 PM",
+                "StartTime":"03:45 PM",
                 "EndTime":"04:30 PM",
-                "Title":"ML for Web & GCP ",
+                "Title":"ML for Web ",
                 "Description":""
             },
             {
